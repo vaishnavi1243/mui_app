@@ -1,0 +1,15 @@
+
+
+.list_content
+{
+    display:flex;
+}
+.check_icon
+{
+    margin-top: 16px;
+}
+.arrow_btn
+{
+    margin-top: 40px;
+   display: flex;
+}

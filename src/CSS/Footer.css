@@ -1,0 +1,75 @@
+.footer
+{
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color:white;
+    background-color: #011C3A;
+    justify-content: center;
+  
+}
+.aboutus
+{
+    color: white;
+  
+  width:300px;
+}
+.Company{
+    color: white;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.company_details
+{
+     display: flex;
+     flex-direction: row;
+}
+
+.Newsletter
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:300px;
+   color: white;
+   
+}
+
+.mail_search input{
+    background-color:#011C3A;
+    border:none;
+    outline: none;
+}
+.mail_search
+{
+    display: flex;
+    
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding: 6px;
+}
+.mail_search:hover
+{
+    border:1px solid black;
+}
+.mail_search_icon
+{
+    
+}
+.Newsletter button{
+    background-color: #3f51b5;
+    color:white;
+   width: 244px;
+
+}
+.subscribe
+{
+    display: flex;
+    justify-content:right;
+    margin-left: 60px;
+}

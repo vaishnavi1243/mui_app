@@ -1,0 +1,26 @@
+.content_para
+{
+    color:#535151db;
+    font-weight: 400;
+    font-size: .875rem;
+    line-height: 1.5;
+    letter-spacing: .3px;
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    max-width: 400px ;
+}
+.content_heading
+{
+
+
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-size: 44px;
+    color:inherit;
+    line-height: 1.1;
+    letter-spacing: .3px;
+    font-weight: normal;
+    margin-bottom: inherit;
+}
+.content
+{
+    text-align: left;
+}

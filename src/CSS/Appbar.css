@@ -1,0 +1,27 @@
+.appbar_btn #btn1
+{
+    background-color: white;
+    color:black;
+   width:120px;
+   border-top-left-radius: 18px;
+   border-bottom-left-radius: 18px;
+   margin-right: 10px;
+}
+.appbar_btn #btn2
+{
+    background-color: white;
+    color:black;
+   width:120px;
+   
+   border-top-right-radius: 18px;
+   border-bottom-right-radius: 18px;
+}
+.appbar_content{
+    background-color: white;
+  
+}
+.menu
+{
+   color: black; 
+   
+}
